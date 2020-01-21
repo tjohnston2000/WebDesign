@@ -9,17 +9,3 @@
 </body>
 </html>
  
- 
-Lists - unordered (bullet lists)
-<ul>
-<li>one</li>
-<li>two</li>
-<li>three</li>
-</ul>
-
-Lists - ordered (numbered lists)
-<ol>
-<li>one</li>
-<li>two</li>
-<li>three</li>
-</ol>
